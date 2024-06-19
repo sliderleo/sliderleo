@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **danleomw@gmail.com**
 
-- ⚡ Fun fact **I play Apex Legends join me if you want to**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
