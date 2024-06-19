@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leo Ming Wu and you can call me Daniel</h1>
-<h3 align="center">A recent Software Engineering graduate looking to learn and explore more</h3>
+<!-- <h3 align="center">A recent Software Engineering graduate looking to learn and explore more</h3> -->
 
 - 🌱 I’m currently learning **Python**
 
